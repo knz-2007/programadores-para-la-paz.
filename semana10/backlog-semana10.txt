@@ -1,4 +1,4 @@
-1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
-2. Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
-3. Como miembro del equipo quiero consultar reportes para hacer seguimiento.
-4. Como veedor comunitario quiero clasificar incidencias por prioridad para actuar oportunamente.
+1. Como ciudadano quiero registrar un reporte o incidencia sobre el estado de las obras públicas locales para dejar evidencia del caso y visibilizar el problema.
+2. Como coordinador de veeduría quiero recibir una alerta automática en Telegram cada vez que se registre un nuevo reporte para revisarlo y asignarlo rápidamente.
+3. Como miembro del equipo de veeduría quiero consultar la lista de reportes registrados para hacer seguimiento y actualizar su estado.
+4. Como ciudadano quiero consultar el estado de mi reporte (recibido, en revisión, resuelto) para verificar que las autoridades o la veeduría están gestionando la incidencia.
