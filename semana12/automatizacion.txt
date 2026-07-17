@@ -1,5 +1,3 @@
-Evento: nueva causa registrada.
-
-Mensaje: "Nueva causa creada en la plataforma. Revisar su contenido y prepararla para la siguiente etapa."
-
-Información que no debe enviarse por seguridad: cédulas, teléfonos, direcciones, comentarios sensibles o datos personales.
+Evento: Nueva iniciativa alcanza el 100% de los apoyos requeridos.
+Mensaje: "¡Meta alcanzada! El proyecto de mejora comunitaria ha reunido las firmas necesarias y el documento de petición formal ha sido generado exitosamente."
+Información que no debe enviarse por seguridad: Cédulas de ciudadanía, números telefónicos privados, correos electrónicos particulares, firmas digitales digitalizadas o contraseñas de las cuentas de usuario.
