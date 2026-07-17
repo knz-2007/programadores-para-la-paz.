@@ -1,21 +1,21 @@
-Entidad: Causa
-
+Entidad: Reporte
 Campos principales:
 - id
-- titulo
+- tipo_incidencia
+- ubicacion
 - descripcion
-- fecha
+- estado
 
 Propósito:
-Guardar las causas comunitarias que serán visibles en la plataforma.
-
-Entidad: Apoyo
+Almacenar los reportes de daños o problemas en la infraestructura pública realizados por los ciudadanos para mantener un registro estructurado del estado de cada caso.
+Entidad: Comentario
 
 Campos principales:
 - id
-- causa_id
-- usuario
+- reporte_id
+- autor
+- mensaje
 - fecha
 
 Propósito:
-Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación.
+Registrar los comentarios, actualizaciones o respuestas.
