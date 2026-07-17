@@ -1,7 +1,16 @@
-Evento: nuevo reporte registrado en el sistema.
+Evento: Nuevo reporte de veeduría registrado.
 
-Acción: n8n detecta el evento y envía un mensaje a Telegram.
+Acción: Enviar mensaje de notificación a Telegram.
 
-Mensaje: "Nuevo reporte recibido. Revisar la plataforma para validar la información."
+Mensaje: "Nueva incidencia de veeduría registrada
+     Categoría: [Categoría_del_reporte]
+     Descripción: [Breve_descripción]
+     Fecha/Hora: [Fecha_creación]
+     Accede al panel de administración para revisarla."
 
-Información que no debe enviarse por seguridad: nombres completos, documentos de identidad, direcciones, teléfonos, claves o cualquier dato sensible.
+Información que no debe enviarse por seguridad: Datos personales y sensibles del ciudadano que reporta, tales como:
+      Nombre completo y firma.
+      Documentos de identidad (cédula, pasaporte, etc.).
+      Correo electrónico o número de teléfono personal.
+      Direcciones exactas de domicilio personal (solo se debe registrar el lugar de la obra pública afectada).
+      Contraseñas o credenciales de acceso.
