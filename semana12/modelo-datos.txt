@@ -1,21 +1,23 @@
-Entidad: Causa
+Entidad:  Iniciativa
 
 Campos principales:
-- id
-- titulo
-- descripcion
-- fecha
+  id_iniciativa
+  titulo_proyecto
+  detalle_descripcion
+  fecha_publicacion
+  estado_actual
 
 Propósito:
-Guardar la información de las causas que se quieren apoyar.
+Esta entidad permite registrar de forma estructurada los diferentes proyectos o necesidades de desarrollo que la comunidad plantea para su evaluación y apoyo colectivo.
 
-Entidad: Apoyo
+
+Entidad: Adhesion
 
 Campos principales:
-- id
-- causa_id
-- nombre
-- fecha
+  id_adhesion
+  iniciativa_asociada_id
+  pseudonimo_firmante
+  fecha_firma
 
 Propósito:
-Registrar los apoyos que recibe cada causa para medir el interés de la comunidad.
+Esta entidad registra cada uno de los respaldos que recibe una iniciativa específica, vinculándolos de forma segura sin comprometer la identidad real de los participantes.
