@@ -1,7 +1,4 @@
-La interfaz tendría una sección para crear una nueva causa comunitaria con título, descripción y fecha.
-
-También tendría una lista de causas disponibles para que los usuarios puedan leerlas.
-
-Cada causa tendría un botón de apoyo y un contador que muestre cuántas personas la han apoyado.
-
-La interfaz debe ser clara, sencilla y no debe mostrar información privada de los usuarios.
+La vista principal de la aplicación mostrará un panel interactivo con el mapa de las denuncias registradas en la comunidad.
+Se incluirá un formulario intuitivo que le permita a cualquier ciudadano reportar un daño, detallando el tipo de problema, la ubicación de la obra y una descripción clara del caso.
+Cada incidencia listada tendrá una sección de actualizaciones donde los usuarios podrán presionar un botón para añadir comentarios o evidencias de seguimiento.
+Para facilitar la lectura, la pantalla presentará un contador de comentarios añadidos y una etiqueta visual con el estado de avance de la veeduría (por ejemplo: "Pendiente", "En revisión" o "Resuelto"), ocultando siempre cualquier dato sensible de los ciudadanos.
