@@ -1,8 +1,10 @@
-Aprendí que la tecnología puede ser una herramienta poderosa para fortalecer la participación ciudadana cuando se usa de forma organizada.
-También comprendí que una plataforma comunitaria necesita datos bien estructurados para funcionar de manera clara y útil.
-El uso de bases de datos permite guardar información de forma ordenada y facilitar su seguimiento.
-La autenticación y la protección de datos ayudan a cuidar la privacidad y la confianza de las personas que participan.
-La generación de documentos automáticos facilita la formalización de peticiones y procesos comunitarios.
-La automatización, por su parte, permite ahorrar tiempo y mantener una comunicación más ágil.
-Durante el curso entendí que la tecnología no solo sirve para programar, sino también para organizar mejor procesos sociales.
-En conjunto, estas herramientas ayudan a convertir la participación ciudadana en acciones más visibles, responsables y sostenibles.
+1. Aprendí que la tecnología es un canal fundamental para potenciar la participación ciudadana activa y la toma de decisiones colectivas.
+2. Comprendí que las plataformas digitales reducen notablemente las barreras de comunicación física y optimizan la organización social.
+3. El diseño de interfaces simples, como un sistema de pocos clics, democratiza el acceso a la veeduría para cualquier ciudadano.
+4. Identifiqué que la base de datos es la columna vertebral que garantiza la transparencia y el seguimiento formal de las propuestas.
+5. Asimilé que los procesos de autenticación de usuarios son vitales para evitar la suplantación de identidad y el spam en el sistema.
+6. Reconocí la inmensa responsabilidad ética y legal que conlleva resguardar la privacidad y la confidencialidad de la comunidad.
+7. Aprendí la importancia de la minimización de datos para almacenar únicamente la información estrictamente necesaria y no sensible.
+8. Descubrí el valor de generar documentos PDF automáticos como un mecanismo para formalizar peticiones ante las entidades públicas.
+9. Valoré el poder de la automatización de flujos con n8n y Telegram para coordinar, notificar y convocar de forma inmediata.
+10. Concluí que la tecnología bien orientada empodera colectivamente a la sociedad y legitima sus demandas de manera estructurada.
