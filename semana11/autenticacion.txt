@@ -1,5 +1,4 @@
-El login permite identificar a un usuario antes de darle acceso a ciertas funciones.
-
-Algunas rutas deben estar protegidas porque pueden contener información privada, registros internos o acciones que no deberían estar disponibles para cualquier persona.
-
-No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens, claves de API ni datos sensibles de la comunidad.
+El  login  o inicio de sesión sirve para verificar la identidad digital de cada persona antes de otorgarle permisos dentro de la web de veeduría.
+Es fundamental restringir el acceso a ciertos apartados del sistema para impedir modificaciones no autorizadas en las denuncias o el vandalismo de datos.
+Bajo ninguna circunstancia la interfaz pública debe revelar contraseñas cifradas, números telefónicos de contacto, ubicaciones residenciales privadas o identificadores de bases de datos.
+De esta manera, se blinda el sistema contra ataques externos mientras se asegura la confidencialidad de los ciudadanos que deciden colaborar activamente.
