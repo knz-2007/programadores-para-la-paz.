@@ -1,6 +1,5 @@
-1. Un ciudadano crea una causa en la plataforma.
-2. La causa queda registrada en la base de datos.
-3. Otros ciudadanos pueden apoyar la causa con un clic.
-4. El sistema cuenta los apoyos recibidos.
-5. El sistema genera un documento PDF con la petición formal.
-6. La petición puede compartirse con autoridades o miembros de la comunidad.
+1. 1. Un habitante del sector ingresa a la plataforma e inicia una propuesta para mejorar un espacio común (por ejemplo, iluminación de un parque).
+2. El sistema guarda la propuesta de mejora de forma segura en la base de datos y le asigna un número de radicado único.
+3. Otros miembros de la comunidad exploran la plataforma, leen la iniciativa y deciden sumarse aportando su firma o voto de apoyo.
+4. Al alcanzar un umbral de firmas preestablecido, el sistema consolida automáticamente un documento formal con la lista de apoyos y los detalles de la solicitud.
+5. El servidor genera un archivo en formato PDF y lo envía de manera automatizada a la junta de acción comunal y a las autoridades locales pertinentes.
